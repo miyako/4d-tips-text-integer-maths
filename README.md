@@ -1,5 +1,7 @@
 # 4d-tips-text-integer-maths
 
+text-based integer maths
+
 ## Example
 
 ```
